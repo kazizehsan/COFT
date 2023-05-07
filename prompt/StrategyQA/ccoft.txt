@@ -1,0 +1,63 @@
+Q: At a presentation about post traumatic stress disorder, would Ariana Grande be a topic of relevance?
+A: Let’s use facts to form thoughts.
+(fact) Post traumatic stress disorder (PTSD) is caused by events involving violence, harm, or torture.
+(fact) Ariana Grande is an artist.
+(fact) She was performing in Manchester in 2017 when explosives were set off in an act of terrorism.
+(fact) Ariana Grande has spoken openly about her trauma experience and her PTSD regarding the Manchester Bombing.
+(thought) Setting off explosives at a concert is an act of violence intended to cause harm to people.
+(thought) A presentation on PTSD would involve people who have experienced trauma or violence at some point in their lives.
+(thought) Thus, Ariana Grande would be relevant at a discussion on PTSD.
+So the answer is yes.
+
+Q: Is Benjamin Franklin a prime candidate to have his statues removed by Black Lives Matter movement?
+A: Let’s use facts to form thoughts.
+(fact) Benjamin Franklin, a famous founding father, has his image on many monuments and on American currency.
+(fact) Benjamin Franklin's 1730s newspaper, The Philadelphia Gazette, posted ads for black slaves.
+(fact) Benjamin Franklin owned two slaves, George and King, who worked as personal servants.
+(fact) The Black Lives Matter movement is a social movement advocating for racial equality.
+(fact) Members of the Black Lives Matter movement petitioned for statues of Christopher Columbus to be removed due to his subjugation of Native Americans.
+(thought) Benjamin Franklin did not view black people as equals to people of other races.
+(thought) Thus the Black Lives Matter will likely want Benjamin Franklin's statues removed.
+So the answer is yes.
+
+Q: Are Doctors of Homeopathy more likely than Doctors of Internal Medicine to recommend Quartz as a treatment?
+A: Let’s use facts to form thoughts.
+(fact) Doctors of Homeopathy are practitioners of alternative medicine.
+(fact) In alternative medicine practices, Quartz is believed to have healing powers.
+(fact) Internal Medicine focuses on treatment with medication based on scientific knowledge.
+(fact) All relevant scientific knowledge contradicts homeopathy or alternative medicine.
+(thought) Doctors of Internal Medicine do not recommend alternative medicine.
+(thought) Doctors of Internal Medicine do not believe Quartz can be used for treatment.
+(thought) Homeopathy practitioners will on the other hand recommend Quartz.
+So the answer is yes.
+
+Q: Could Bernie Sanders visit the Metropolitan Museum of Art twenty times for under two hundred dollars?
+A: Let’s use facts to form thoughts.
+(fact) Bernie Sanders is a senior citizen.
+(fact) At the Metropolitan Museum of Art, senior citizens from outside NY, NJ, or CT must pay $17 per visit.
+(thought) Twenty visits would cost $17 times twenty, which is more than two hundred dollars.
+(thought) So under two hundred dollars, less than twenty visits are possible.
+(thought) Thus Bernie Sanders cannot visit the museum twenty times under two hundred dollars.
+So the answer is no.
+
+Q: Would Eric Clapton's mother hypothetically be unable to legally purchase cigarettes in the USA at his birth?
+A: Let’s use facts to form thoughts.
+(fact) Eric Clapton is a musician.
+(fact) At the time of his birth, his mother was 16 years old.
+(fact) As of 2020, federal law in the USA required states comply with a minimum age of 21 years for sale/purchase of tobacco products.
+(thought) At the time of his birth, Eric Clapton's mother was too young to legally purchase tobacco products.
+(thought) Cigarettes are tobacco products.
+(thought) So hypothetically, Eric Clapton's mother did not meet the minimum age requirement to legally purchase cigarettes.
+So the answer is yes.
+
+Q: Can an adult male stand on top Donatello's bronze David and touch the Sistine Chapel ceiling?
+A: Let’s use facts to form thoughts.
+(fact) The average height of an adult male is five feet and nine inches.
+(fact) The tallest adult male in history was eight feet and eleven inches.
+(fact) Donatello's created a bronze David statue that stands over five feet tall.
+(fact) The Sistine Chapel ceiling is sixty eight feet high.
+(thought) If the tallest adult male stood on top of the bronze David statue, he would reach a height close to eight feet plus five feet approximately.
+(thought) Eight feet plus five feet is thirteen feet.
+(thought) The Sistine Chapel ceiling is higher than thirteen feet.
+(thought) Thus the adult male standing on top of Donatello's bronze David would not reach the Sistine Chapel ceiling.
+So the answer is no.
