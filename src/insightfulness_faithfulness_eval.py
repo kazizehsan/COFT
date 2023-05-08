@@ -17,7 +17,7 @@ faithful_scores = []
 
 if shuffle:
     random.shuffle(predictions)
-
+count = 1
 for row in predictions[:sample_size]:
     facts = []
     thoughts = []
@@ -35,6 +35,8 @@ for row in predictions[:sample_size]:
                 elif processed_answer == 'yes.':
                     model_prediction = True
 
+    print(f"{count}/{sample_size}; original id: {row['id']}")
+    count = count + 1
     print("question: ", row["question"])
     print("facts: ", facts)
     print("thoughts: ", thoughts)
